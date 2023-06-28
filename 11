@@ -1,0 +1,19 @@
+.logo-list ul {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.logo-list li {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.logo {
+  width: 300px;
+  height: 300px;
